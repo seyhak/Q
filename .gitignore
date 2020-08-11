@@ -1,3 +1,4 @@
 *.pyc
 *.cache
 Q.code-workspace
+.vscode
