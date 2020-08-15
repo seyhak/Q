@@ -2,3 +2,9 @@
 *.cache
 Q.code-workspace
 .vscode
+*.dll
+Debug/
+config/
+*.bson
+*.g.cs
+*.csproj.nuget.dgspec.json

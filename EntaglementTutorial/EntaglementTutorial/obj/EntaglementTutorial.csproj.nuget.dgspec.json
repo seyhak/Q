@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\EntaglementTutorial.csproj": {}
+    "D:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\EntaglementTutorial.csproj": {}
   },
   "projects": {
-    "d:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\EntaglementTutorial.csproj": {
+    "D:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\EntaglementTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\EntaglementTutorial.csproj",
+        "projectUniqueName": "D:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\EntaglementTutorial.csproj",
         "projectName": "EntaglementTutorial",
-        "projectPath": "d:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\EntaglementTutorial.csproj",
+        "projectPath": "D:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\EntaglementTutorial.csproj",
         "packagesPath": "C:\\Users\\Seyhak\\.nuget\\packages\\",
-        "outputPath": "d:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\obj\\",
+        "outputPath": "D:\\INFORMATYKA\\PROJEKTY\\QUANTUM\\EntaglementTutorial\\EntaglementTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
